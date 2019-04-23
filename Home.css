@@ -1,0 +1,65 @@
+﻿body{
+    background-color:lavender;
+    color: darkblue;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Handwriting';
+}
+
+#Navigation{
+    float: left;
+    padding: 30px;
+    width: 15%;
+    background-color: white;
+    list-style-type:none;
+}
+
+a:hover {
+    color: deeppink;
+}
+
+ul{
+    background-color: white;
+    float: right;
+    list-style-type: none;
+    margin: 50px;
+    padding: 50px;
+}
+
+ul2{
+    float: left;
+    margin: 10px;
+    padding: 20px;
+}
+
+p2 {
+    float: left;
+    margin: 10px;
+    padding: 20px;
+}
+
+p3{
+    float:left;
+    margin:10px;
+    padding:20px;
+}
+
+/*#HomePic{
+    position:center;
+    padding:10px;
+    float: left;
+}*/

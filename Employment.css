@@ -1,0 +1,67 @@
+h1 {
+    color: black;
+    font-family: 'Lucida Handwriting'
+}
+
+body {
+    background-color: lavender;
+    color: darkblue;
+}
+
+#contact{
+    background-color: white;
+    float: right;
+    list-style-type: none;
+    margin: 50px;
+    padding: 50px;
+}
+
+#SIF{
+    float:left;
+}
+#SIFDate{
+    float:right;
+}
+#SIFstuff{
+    float:left;
+}
+
+#AM{
+    float:left;
+}
+#AMDate{
+    float:right;
+}
+#AMstuff{
+    float:left;
+}
+
+#GNB {
+    float: left;
+}
+#GNBDate{
+    float:right;
+}
+#GNBstuff{
+    float:left;
+}
+
+#MGH{
+    float:left;
+}
+#MGHGDate{
+    float:right;
+}
+#MGH{
+    float:left;
+}
+
+#SNG{
+    float:left;
+}
+#SNGDate{
+    float:right;
+}
+SNGstuff{
+    float:left;
+}

@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Lucida Handwriting';
+}
+
+body {
+    background-color: lavender;
+    color: darkblue;
+}
+
+ul {
+    background-color: white;
+    float: right;
+    list-style-type: none;
+    margin: 50px;
+    padding: 50px;
+}

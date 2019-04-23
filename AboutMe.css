@@ -1,0 +1,27 @@
+#ProfilePic{
+    height: 10%;
+    width: 25%;
+    display: block;
+}
+
+h1 {
+    color: black;
+    font-family: 'Lucida Handwriting'
+}
+
+nav{
+    color:black;
+}
+
+body {
+    background-color: lavender;
+    color: darkblue;
+}
+
+ul {
+    background-color: white;
+    float: right;
+    list-style-type: none;
+    margin: 50px;
+    padding: 50px;
+}
