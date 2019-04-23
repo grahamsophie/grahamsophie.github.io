@@ -20,12 +20,21 @@ h2 {
     font-family: 'Lucida Handwriting';
 }
 
+li{
+    margin:20px;
+}
+
 #Navigation{
     float: left;
-    padding: 30px;
-    width: 15%;
+    padding: 50px;
+    width: 10%;
     background-color: white;
     list-style-type:none;
+    margin:30px;
+}
+
+#SelectOptions{
+    margin:30px;
 }
 
 a:hover {
@@ -40,26 +49,20 @@ ul{
     padding: 50px;
 }
 
-ul2{
+#Ellen{
     float: left;
     margin: 10px;
     padding: 20px;
 }
 
-p2 {
-    float: left;
-    margin: 10px;
-    padding: 20px;
-}
-
-p3{
+#Description {
     float:left;
     margin:10px;
     padding:20px;
 }
 
-/*#HomePic{
-    position:center;
-    padding:10px;
-    float: left;
-}*/
+image{
+  width:50%;
+  position:center;
+  margin:50px;
+}

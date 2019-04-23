@@ -16,14 +16,18 @@ body {
     padding: 50px;
 }
 
+h2{
+    font-size: 15px;
+}
+ul{
+    float:left;
+}
+
 #SIF{
     float:left;
 }
 #SIFDate{
     float:right;
-}
-#SIFstuff{
-    float:left;
 }
 
 #AM{
@@ -32,9 +36,6 @@ body {
 #AMDate{
     float:right;
 }
-#AMstuff{
-    float:left;
-}
 
 #GNB {
     float: left;
@@ -42,18 +43,12 @@ body {
 #GNBDate{
     float:right;
 }
-#GNBstuff{
-    float:left;
-}
 
 #MGH{
     float:left;
 }
-#MGHGDate{
+#MGHDate{
     float:right;
-}
-#MGH{
-    float:left;
 }
 
 #SNG{
@@ -62,6 +57,4 @@ body {
 #SNGDate{
     float:right;
 }
-SNGstuff{
-    float:left;
-}
+
