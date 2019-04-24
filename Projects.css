@@ -7,10 +7,11 @@ body {
     color: darkblue;
 }
 
-ul {
+nav{
     background-color: white;
     float: right;
     list-style-type: none;
     margin: 50px;
     padding: 50px;
 }
+

@@ -8,19 +8,20 @@ body {
     color: darkblue;
 }
 
-#contact{
+h3{
     background-color: white;
-    float: right;
+    float:right;
     list-style-type: none;
     margin: 50px;
     padding: 50px;
+    font-weight:normal;
 }
 
 h2{
     font-size: 15px;
 }
 ul{
-    float:left;
+    padding:35px;
 }
 
 #SIF{
@@ -56,5 +57,10 @@ ul{
 }
 #SNGDate{
     float:right;
+}
+
+div{
+    display:inline-block;
+     width:50%;
 }
 
