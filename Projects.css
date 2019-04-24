@@ -7,7 +7,7 @@ body {
     color: darkblue;
 }
 
-nav{
+#Contact{
     background-color: white;
     float: right;
     list-style-type: none;
@@ -15,3 +15,16 @@ nav{
     padding: 50px;
 }
 
+#Projects{
+    background-color: pink;
+    float: left;
+    list-style-type: none;
+    margin: 50px;
+    padding: 50px;
+    margin-bottom: 100px;
+    font-size: 30px;
+}
+
+.Project{
+    padding:15px;
+}

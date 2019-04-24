@@ -36,11 +36,11 @@ div{
     margin:30px;
 }
 
-#Navigation{
+/*#Navigation{
     margin-left:100px;
     padding:30px;
     font-size:30px;
-}
+}*/
 a:hover {
     color: deeppink;
 }
